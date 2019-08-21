@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: 暗黑战神（精装版）
+MIDlet-Icon: /icon.png
+MIDlet-Vendor: In-Fusio
+MIDlet-1: 暗黑战神（精装版）, /icon.png, com.MainMidlet
+MIDlet-Version: 1.0
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Description: 角色类;E2;史诗般的暗黑经典，回味最初的感动。
+SMS-GameId: 308161
+SMS-Channel: 12E
+
